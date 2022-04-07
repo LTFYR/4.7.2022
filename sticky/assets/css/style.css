@@ -1,0 +1,104 @@
+*{
+    margin: 0;
+}
+body{
+    background-color:azure;
+    margin-bottom: 2000px;
+    
+    bottom: 0;
+}
+.letters{
+    position: sticky;
+    bottom: 0; 
+}
+.A h2{
+    width: 100%;
+    padding: 5px;
+    background-color: grey;
+    border: 1px solid;
+    position: sticky;
+    top: 0;
+    border-radius: 5px;
+    border-color: aqua;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+}
+.B h2{
+    width: 100%;
+    padding: 5px;
+    background-color: grey;
+    border: 1px solid;
+    position: sticky;
+    top: 0;
+    border-radius: 5px;
+    border-color: aqua;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+}
+.C h2{
+    width: 100%;
+    background-color: grey;
+    border: 1px solid;
+    position: sticky;
+    padding: 5px;
+    top: 0;
+    border-radius: 5px;
+    border-color: aqua;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+}
+.D h2{
+    width: 100%;
+    background-color: grey;
+    border: 1px solid;
+    padding: 5px;
+    position: sticky;
+    top: 0;
+    border-radius: 5px;
+    border-color: aqua;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+}
+.E h2{
+    width: 100%;
+    background-color: grey;
+    border: 1px solid;
+    position: sticky;
+    padding: 5px;
+    top: 0;
+    border-radius: 5px;
+    border-color: aqua;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+}
+.F h2{
+    width: 100%;
+    background-color: grey;
+    border: 1px solid;
+    padding: 5px;
+    position: sticky;
+    top: 0;
+    border-radius: 5px;
+    border-color: aqua;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+}
+.A h2:hover{
+    color: red;
+    background-color: aqua;
+}
+.B h2:hover{
+    color: red;
+    background-color: aqua;
+}
+.C h2:hover{
+    color: red;
+    background-color: aqua;
+}
+.D h2:hover{
+    color: red;
+    background-color: aqua;
+}
+.E h2:hover{
+    color: red;
+    background-color: aqua;
+}
+.F h2:hover{
+    color: red;
+    background-color: aqua;
+}
+
